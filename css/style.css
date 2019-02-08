@@ -27,6 +27,8 @@ h2{
 }
 #bio-image{
     width: 200px;
+    transform: rotate(180deg);
+    height: 200px;
 
 }
 #main-bio{
@@ -35,8 +37,4 @@ h2{
 a {
     color: #d21034;
 }
-img{
-    width: 200px; 
-    height: 200px; 
-    transform:rotate(180deg);
-}
+
